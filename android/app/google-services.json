@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932112447956",
+    "project_id": "chutflutter",
+    "storage_bucket": "chutflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932112447956:android:645cdc31f88157afcbbe41",
+        "android_client_info": {
+          "package_name": "com.example.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932112447956-kfjd6lccqvirf55899vlpf0uelsooh8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_online",
+            "certificate_hash": "3ab177ac84f55a7f746d492d6b28d7a3c21f5064"
+          }
+        },
+        {
+          "client_id": "932112447956-3nb51tr91s0re5d5ibnmo5711p6kgfg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBrFfKt6i116JPqZRxXUxIeRCmJoBjUfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932112447956-3nb51tr91s0re5d5ibnmo5711p6kgfg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
